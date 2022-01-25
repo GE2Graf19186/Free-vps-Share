@@ -47,6 +47,6 @@ __Google Cloud Free Program(试用,申请难度较高,面向开发者,不适合�
 
 
 
-__IBM Cloud(试用,申请难度较高,不适合薅羊毛) __
+__IBM Cloud(试用,申请难度较高,不适合薅羊毛)__
 
 
