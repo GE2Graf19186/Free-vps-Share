@@ -1,27 +1,27 @@
 # Free-vps-Share
-大厂免费(试用)VPS
+__大厂免费(试用)VPS__
 
-__Oracle Cloud__
+具体免费规则，请详细看相应商家套餐介绍。
 
-__Amazon __
+__Oracle Cloud(试用)__
 
-__Microsoft Azure__
+__Amazon(试用)__
 
-__Google Cloud Free Program__
+__Microsoft Azure(试用)__
+
+__Google Cloud Free Program(试用)__
 
 __IBM Cloud(试用) __
 
-Alibaba Cloud Free Trial
+__Vultr__
 
-Vultr
+__DigitalOcean__
 
-DigitalOcean
+__Linode__
 
-Linode
+__Atlantic.net__
 
-Atlantic.net
-
-AccuWebHosting
+__AccuWebHosting__
 
 
 
