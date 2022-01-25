@@ -10,7 +10,7 @@ __Amazon(试用)__
 
 __Microsoft Azure(试用)__
 
-__IBM Cloud(试用) __
+__IBM Cloud(试用)__
 
 __Vultr(试用)__
 
