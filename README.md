@@ -4,6 +4,10 @@ __大厂免费(试用)VPS__
 具体免费规则，请详细看相应商家套餐介绍。
 
 
+__cloudflare__
+__https://www.cloudflare.com/zh-cn/__
+
+
 __Oracle Cloud(试用)__
 
 __Amazon(试用)__
